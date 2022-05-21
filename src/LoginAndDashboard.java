@@ -33,6 +33,12 @@ public class LoginAndDashboard {
 	driver.findElement(By.xpath("//*[text() =' SICK LEAVE ']")).click();
 	//Select dropdown = new Select(staticDropdown);
 	//dropdown.selectByIndex(1);
+	
+	
+	
+	
+	
+	
 	driver.findElement(By.className("text-primary-normal")).click();
 	/**driver.navigate().to("https://marketadvisor.co.in/mob-app/dev/app/#/home" );
 	driver.navigate().back();
